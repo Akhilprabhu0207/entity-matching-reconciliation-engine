@@ -1,0 +1,5 @@
+source_name,matched_name,master_id,method,score,runner_up_score,status,reason
+Vangard S&P 500 ETF,Vanguard S&P 500 ETF,F001,NAME_FUZZY,97.87234042553192,24.390243902439025,MATCHED,name_above_threshold
+Berkshire Hathaway Inc,Berkshire Hathaway Inc.,F002,NAME_FUZZY,100.0,30.000000000000004,MATCHED,name_above_threshold
+Microsft Corp,Microsoft Corporation,F003,NAME_FUZZY,94.11764705882352,33.75,MATCHED,name_above_threshold
+Completely Unknown Security,,,NAME_FUZZY,36.0,36.0,UNMATCHED,ambiguous_or_low_confidence
